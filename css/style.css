@@ -751,7 +751,5 @@ textarea.input-control{
     /* # team */
     .team-item {
         grid-column: span 6;
-    }
-
-    
+    }  
 }
